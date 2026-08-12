@@ -1,3 +1,5 @@
 # Hospital-Operations-and-Revenue-Dashboard
 A Detailed Visualization Hospital Operations &amp; Revenue Dashboard
-![Alternative Text](URL_TO_IMAGE)
+![Alternative Text]([URL_TO_IMAGE](https://github.com/XeNoX36/Hospital-Operations-and-Revenue-Dashboard/blob/main/Screenshot%20(7).png))
+![Alternative Text]([URL_TO_IMAGE](https://github.com/XeNoX36/Hospital-Operations-and-Revenue-Dashboard/blob/main/Screenshot%20(8).png))
+![Alternative Text]([URL_TO_IMAGE](https://github.com/XeNoX36/Hospital-Operations-and-Revenue-Dashboard/blob/main/Screenshot%20(9).png))
